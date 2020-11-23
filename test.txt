@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 3 robert robert 4096 Nov 23 22:16 ./
+drwxrwxr-x 9 robert robert 4096 Nov 23 22:15 ../
+drwxr-xr-x 7 robert robert 4096 Nov 23 22:15 .git/
+-rw-r--r-- 1 robert robert    0 Nov 23 22:16 test.txt
